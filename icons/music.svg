@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-552,-923)">
+        <g id="music" transform="matrix(1,0,0,1,552.36,923.708)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.1275,0,0,1,-621.468,-732.717)">
+                <path d="M583.387,776.57C583.821,787.013 587.669,791.619 587.669,826.456C587.669,826.817 587.669,824.433 583.301,825.306C574.185,827.129 580.193,849.939 592.726,834.272C598.61,826.918 593.233,795.819 594.331,783.748C612.232,778.371 612.192,778.628 629.288,771.42C627.469,794.783 629.5,810.002 630.198,820.479C625.519,821.649 624.946,820.867 623.761,823.237C618.341,834.077 636.512,832.653 636.635,825.996C637.91,757.127 635.49,757.293 634.997,753.696C612.109,767.746 590.125,772.468 582.841,776.11" style="fill:none;stroke:white;stroke-width:1.88px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
