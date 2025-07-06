@@ -123,5 +123,10 @@ const icons = [
   "perplexity",
   "plex",
   "procreate",
-  "zen-browser"
+  "zen-browser",
+  "gpu",
+  "arc-browser",
+  "orion-browser",
+  "skifree",
+  "airshow"
 ];
