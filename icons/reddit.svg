@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-282,-2004)">
+        <g id="reddit" transform="matrix(1,0,0,1,282.24,2004.52)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1,0,0,1,2.00684,5.99398)">
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M313.655,2053.42C315.776,2048.91 335.638,2039.32 350.681,2043.53C369.531,2048.81 366.967,2055.5 371.779,2054.54C373.068,2054.28 372.394,2050 381.87,2047.89C393.198,2045.37 404.248,2072.84 380.971,2071.52C379.53,2116.71 335.738,2107.23 328.437,2104.3C309.883,2096.88 308.875,2075.57 308.734,2072.58C296.456,2075.89 291.023,2058.72 295.184,2052.48C297.767,2048.6 308.772,2045.34 313.989,2053.16" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M330.26,2060.6C322.036,2059.3 321.583,2072.78 330.042,2070.14C340.332,2066.92 334.778,2056.89 327.978,2061.42" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M357.79,2060.96C349.138,2064.42 351.419,2072.57 360.542,2070.14C364.613,2069.05 361.556,2054.98 354.809,2062.57" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M330.747,2083.75C347.157,2084.99 362.967,2079.21 351.828,2091.46C349.013,2094.56 337.924,2098.42 332.794,2089.63C331.183,2086.87 331.633,2086.86 329.812,2084.12" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M341.279,2042.39C340.241,2026.82 349.642,2019.95 357.79,2022.66" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-282.24,-2004.52)">
+                    <path d="M367.651,2018.08C358.426,2016.03 352.507,2032.46 365.129,2029.55C373.279,2027.66 372.442,2024.02 366.505,2018.08" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

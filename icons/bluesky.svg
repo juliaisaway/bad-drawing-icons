@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-416,-2004)">
+        <g id="bluesky" transform="matrix(1,0,0,1,416.877,2004.52)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1,0,0,1,7.37702,-5.43096)">
+                <g transform="matrix(0.938513,0,0,0.938513,-398.086,-1874.02)">
+                    <path d="M483.888,2055.95C484.723,2058.53 500.018,2012.24 523.233,2019.97C532.065,2022.92 534.138,2059.91 519.601,2070.81C512.099,2076.44 512.366,2076.37 503.859,2080.67C529.064,2082.91 537.887,2118.62 496.211,2122.32C489.927,2113.72 487.172,2102.83 483.453,2100.97" style="fill:none;stroke:white;stroke-width:2.13px;"/>
+                </g>
+                <g transform="matrix(-0.938513,0,0,0.938513,511.332,-1873.89)">
+                    <path d="M485.112,2055.81C485.947,2058.39 500.018,2012.24 523.233,2019.97C532.065,2022.92 534.138,2059.91 519.601,2070.81C512.099,2076.44 512.366,2076.37 503.859,2080.67C529.064,2082.91 537.887,2118.62 496.211,2122.32C489.927,2113.72 489.267,2102.69 485.547,2100.83" style="fill:none;stroke:white;stroke-width:2.13px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

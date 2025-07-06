@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-142,-2157)">
+        <g id="linkedin" transform="matrix(1,0,0,1,142.029,2157.64)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1,0,0,1,7.32181,2.87185)">
+                <g transform="matrix(1,0,0,1,-142.029,-2157.64)">
+                    <path d="M167.896,2201.65C168.191,2216.38 168.166,2216.2 168.53,2230.78C168.923,2246.51 167.841,2246.4 168.933,2258.14C178.213,2258.43 182.887,2261.69 183.49,2251.45C185.199,2222.39 183.812,2208.49 184.08,2205C184.323,2201.84 182.581,2202.37 182.281,2201.85C182.133,2201.86 181.446,2201.26 167.896,2201.65Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-142.029,-2157.64)">
+                    <path d="M170.915,2178.78C165.777,2179.85 160.764,2196.4 176.6,2194.96C178.799,2194.76 184.002,2186.02 178.962,2180.98C175.951,2177.97 171.295,2178.78 170.915,2178.78Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-142.029,-2157.64)">
+                    <path d="M192.512,2202.23C191.985,2206.67 193.842,2206.57 192.344,2258.15C193.245,2258.01 197.214,2257.38 203.752,2258.35C204.77,2214.14 208.968,2213.67 212.621,2213.26C224.584,2211.93 220.519,2243.83 220.888,2256.76C220.907,2257.43 221.145,2257.72 229.142,2258.16C235.505,2205.54 227.577,2202.9 223.25,2201.45C217.458,2199.52 211.659,2195.54 202.615,2205.96C202.509,2203.97 204.617,2200.68 199.63,2201.06C194.313,2201.47 192.735,2200.35 192.512,2202.23Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

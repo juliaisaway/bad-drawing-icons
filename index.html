@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+    <title>Bad Drawing Icons</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="Júlia Alberto">
+    <meta name="keywords" content="streamdeck, svg icons, icons, bad drawing, desenho feio, ícones divertidos, design, stream deck, icon set">
+    <meta name="description" content="SVG icons for your StreamDeck">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Bad Drawing Icons">
+    <meta property="og:description" content="SVG icons for your StreamDeck">
+    <meta property="og:image" content="images/shareable.png"> <!-- substitua se necessário -->
+    <meta property="og:site_name" content="Bad Drawing Icons">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://bad-drawing-icons.githu.io"> <!-- ajuste se a URL for outra -->
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Bad Drawing Icons">
+    <meta name="twitter:description" content="SVG icons for your StreamDeck">
+    <meta name="twitter:image" content="site/shareable.png"> <!-- mesma imagem ou outra para Twitter -->
+
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎨</text></svg>">
+
+
+    <link rel="stylesheet" href="site/style.css">
+
+</head>
+<body>
+    <div class="trans-flag">
+        <div class="stripes blue"></div>
+        <div class="stripes pink"></div>
+        <div class="stripes white"></div>
+        <div class="stripes pink"></div>
+        <div class="stripes blue"></div>
+    </div>
+
+    <div class="content">
+
+        <div id="top" class="container header">
+
+            <div class="col">
+                <header>
+                    <img class="noimg" src="site/pack-name.svg" alt="Bad Drawing Icons">
+                </header>
+            </div>
+
+        </div>
+
+        <div class="container" id="icons-container">
+
+        </div>
+    </div>
+
+<script src="site/icons.js"></script>
+<script>
+    const container = document.getElementById("icons-container");
+
+    icons.forEach(icon => {
+    container.innerHTML += `
+        <div class="col">
+        <a href="./icons/${icon}.svg" class="image" target="_blank" download>
+            <img src="./icons/${icon}.svg" alt="${icon}">
+        </a>
+        </div>
+    `;
+    });
+</script>
+
+</body>
+</html>

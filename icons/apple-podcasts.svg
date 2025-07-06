@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-562,-3807)">
+        <g id="apple-podcasts" transform="matrix(1,0,0,1,562.565,3807.58)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.11928,0,0,1.11928,-2.55744,-6.02787)">
+                <g transform="matrix(1,0,0,1,-562.741,-3812.47)">
+                    <path d="M618.463,3882.62C622.64,3877.98 639.217,3874.7 634.456,3892.16C632.782,3898.3 631.025,3932.89 620.072,3906.12C617.539,3899.93 615.675,3884.49 619.213,3882.72" style="fill:none;stroke:white;stroke-width:1.79px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-562.565,-3807.58)">
+                    <path d="M624.795,3850.73C618.913,3852.54 617.28,3851.59 616.422,3857.6C614.844,3868.64 625.332,3869.74 630.377,3863.61C634.548,3858.54 631.313,3849.26 622.004,3851.59" style="fill:none;stroke:white;stroke-width:1.79px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-562.565,-3807.58)">
+                    <path d="M611.943,3887.35C565.888,3853.53 635.493,3819.26 647.122,3859.96C649.386,3867.88 646.549,3873.34 639.823,3886.8" style="fill:none;stroke:white;stroke-width:1.79px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-562.565,-3807.58)">
+                    <path d="M612.37,3899.94C585.096,3892.88 570.527,3855.06 599.891,3835.49C601.659,3834.31 608.524,3829.73 625.653,3829.05C650.077,3828.07 677.063,3863.3 647.122,3893.24C640.914,3899.45 640.449,3899.27 639.608,3900.11" style="fill:none;stroke:white;stroke-width:1.79px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

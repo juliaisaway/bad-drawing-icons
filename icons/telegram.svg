@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-281,-1848)">
+        <g id="telegram" transform="matrix(1,0,0,1,281.546,1848.42)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1,0,0,1,1.31084,0.982167)">
+                <g transform="matrix(1,0,0,1,-281.546,-1848.42)">
+                    <path d="M357.41,1865.73C327.733,1862.87 305.211,1871.18 303.025,1918.18C301.042,1960.82 390.068,1985.28 385.293,1904.1C384.564,1891.71 379.481,1867.85 357.41,1865.73Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-281.546,-1848.42)">
+                    <path d="M323.123,1914.19C326.15,1911.16 334.568,1903.85 349.128,1894.16C355.87,1889.67 355.31,1889.16 362.125,1884.55C361.464,1910.77 359.983,1910.51 358.492,1936.66C348.461,1931.41 347.258,1930.12 341.843,1927.9C342.296,1926.77 344.456,1920.6 346.411,1914.74C341.117,1920.19 341.571,1920.31 337.038,1926.47C323.205,1923.72 314.002,1925.58 314.62,1923.42C315.062,1921.88 322.327,1914.98 323.123,1914.19Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
