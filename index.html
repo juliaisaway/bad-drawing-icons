@@ -54,11 +54,20 @@
         <div class="container" id="icons-container">
 
         </div>
+
+        <div class="container large">
+            <div class="col">
+                <p>Created by <a href="https://eusoujulia.com.br">Júlia Alberto</a>, proudly in Brazil</p>
+            </div>
+        </div>
+        
     </div>
 
 <script src="site/icons.js"></script>
 <script>
     const container = document.getElementById("icons-container");
+
+    icons.sort();
 
     icons.forEach(icon => {
     container.innerHTML += `

@@ -330,8 +330,16 @@ input:checked + .slider:before {
     }
 
         @media only screen and (max-width: 768px) {
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+
+    &.large {
+        grid-template-columns: 1fr;
+
+        @media only screen and (max-width: 768px) {
             grid-template-columns: 1fr;
         }
+    }
 
     }
 
