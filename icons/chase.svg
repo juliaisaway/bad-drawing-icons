@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-556,-4558)">
+        <g id="chase" transform="matrix(1,0,0,1,556.916,4558.94)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.37627,0,0,1.37627,-16.613,-13.4248)">
+                <g transform="matrix(1,0,0,1,-556.916,-4558.94)">
+                    <path d="M603.331,4584.65C603.225,4584.81 604.047,4592.3 603.319,4599.69C623.689,4598.68 624.753,4598.5 646.894,4598.09C633.125,4585.34 634.2,4582.37 630.05,4582.17C629.259,4582.13 604.264,4583.71 603.331,4584.65Z" style="fill:none;stroke:white;stroke-width:1.45px;"/>
+                </g>
+                <g transform="matrix(-1,0,0,-1,674.938,4671.45)">
+                    <path d="M603.331,4584.65C603.225,4584.81 604.047,4592.3 603.319,4599.69C623.689,4598.68 624.753,4598.5 646.894,4598.09C633.125,4585.34 634.2,4582.37 630.05,4582.17C629.259,4582.13 604.264,4583.71 603.331,4584.65Z" style="fill:none;stroke:white;stroke-width:1.45px;"/>
+                </g>
+                <g transform="matrix(-6.12323e-17,1,-1,-6.12323e-17,4673.48,-560.004)">
+                    <path d="M603.331,4584.65C603.225,4584.81 604.047,4592.3 603.319,4599.69C623.689,4598.68 624.753,4598.5 646.894,4598.09C633.125,4585.34 634.2,4582.37 630.05,4582.17C629.259,4582.13 604.264,4583.71 603.331,4584.65Z" style="fill:none;stroke:white;stroke-width:1.45px;"/>
+                </g>
+                <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-4556.33,672.723)">
+                    <path d="M603.331,4584.65C603.225,4584.81 604.047,4592.3 603.319,4599.69C623.689,4598.68 624.753,4598.5 646.894,4598.09C633.125,4585.34 634.2,4582.37 630.05,4582.17C629.259,4582.13 604.264,4583.71 603.331,4584.65Z" style="fill:none;stroke:white;stroke-width:1.45px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

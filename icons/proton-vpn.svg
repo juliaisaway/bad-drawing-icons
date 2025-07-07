@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-136,-5168)">
+        <g id="proton-vpn" transform="matrix(1,0,0,1,136.099,5168.21)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.19799,0,0,1.19799,-6.57585,-6.78627)">
+                <g transform="matrix(1,0,0,1,-136.099,-5168.21)">
+                    <path d="M163.82,5191.29C163.205,5191.35 154.695,5194.43 161.111,5205.84C161.257,5206.1 165.048,5213.97 165.389,5214.68C165.855,5215.65 182.183,5239.66 189.488,5252.61C190.021,5253.56 195.271,5265.95 205.296,5262.8C212.74,5260.46 229.285,5210.5 231.226,5201.9C233.751,5190.7 164.188,5191.37 163.82,5191.29Z" style="fill:none;stroke:white;stroke-width:1.67px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-136.099,-5168.21)">
+                    <path d="M161.847,5206.44C163.79,5206.53 166.818,5206.69 185.87,5210.15C207.476,5214.08 215.69,5209.64 211.857,5219.6C210.77,5222.43 197.247,5248.16 197.061,5248.7C196.809,5249.43 194.276,5256.74 192.957,5257.4" style="fill:none;stroke:white;stroke-width:1.67px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

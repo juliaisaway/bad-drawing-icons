@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-414,-5019)">
+        <g id="proton-mail" transform="matrix(1,0,0,1,414.354,5019.47)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.21172,0,0,1.21172,-9.01869,-8.41546)">
+                <g transform="matrix(1,0,0,1,-414.354,-5019.47)">
+                    <path d="M437.29,5050.94C436.669,5056.57 437.467,5069.73 436.005,5082.89C433.162,5108.48 437.931,5108.95 440.047,5109.16C477.233,5112.88 511.658,5110.85 512.811,5108.54C516.244,5101.68 511.757,5047.56 511.708,5047.26C506.031,5054.38 488.248,5074.18 482.182,5080.24C472.324,5090.1 444.036,5051.86 437.597,5048.92C437.491,5049.56 437.511,5050.22 437.404,5050.86C437.389,5050.95 437.288,5051.56 437.093,5051.95" style="fill:none;stroke:white;stroke-width:1.65px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-414.354,-5019.47)">
+                    <path d="M492.641,5068.88C492.582,5074.28 492.23,5079.26 491.11,5095.85C490.606,5103.3 490.904,5103.24 489.985,5110.59" style="fill:none;stroke:white;stroke-width:1.65px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-414.354,-5019.47)">
+                    <path d="M437.276,5066.16C437.843,5065.8 455.965,5092.67 472.611,5088.97C478.885,5087.58 483.809,5079.79 485.255,5077.23" style="fill:none;stroke:white;stroke-width:1.65px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

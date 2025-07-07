@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-4259)">
+        <g id="venmo" transform="matrix(1,0,0,1,0.476909,4259.57)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g>
+                <g transform="matrix(1,0,0,1,-0.476909,-4259.57)">
+                    <path d="M34.184,4281.62C19.246,4280.37 22.744,4290.57 21.805,4318.76C20.517,4357.38 22.055,4359.52 31.483,4363.1C47.872,4369.32 48.171,4369.07 91.581,4365.12C104.982,4363.91 103.661,4355.28 104.41,4332.04C104.463,4330.42 103.419,4298.45 99.909,4287.92C96.887,4278.86 91.276,4280.71 68.608,4279.87C65.825,4279.77 47.109,4282.69 34.184,4281.62Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,1.52397,-4263.76)">
+                    <path d="M41.79,4306.78C41.64,4312.03 41.588,4308.31 41.821,4313.85C42.347,4326.34 43.923,4348.87 44.099,4351.4C60.206,4351.38 62.19,4354.46 73.124,4342.62C83.228,4331.67 79.62,4307.52 79.163,4304.46C67.907,4308.64 62.602,4304.79 64.12,4312C64.528,4313.94 67.485,4327.98 58.523,4336.09C58.248,4331.47 55.657,4313.49 55.282,4306.35C50.601,4307.13 42.793,4306.82 41.79,4306.78Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

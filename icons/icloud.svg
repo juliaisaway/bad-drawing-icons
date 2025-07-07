@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-5318)">
+        <g id="icloud" transform="matrix(1,0,0,1,0.476909,5318.01)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g>
+                <g transform="matrix(1.08929,0,0,1.08929,-3.63188,-5794.54)">
+                    <path d="M34.011,5338.6C24.36,5337.23 24.506,5344.03 21.7,5368.73C21.227,5372.9 21.454,5403.85 23.248,5407.44C23.995,5408.93 23.793,5412.37 33.053,5417.42C42.069,5422.34 94.227,5422.39 97.905,5416.04C105.835,5402.35 101.518,5387.93 101.518,5355.32C101.518,5339.48 97.045,5331.32 42.686,5338.11C38.02,5338.7 38.107,5338.13 33.397,5338.8" style="fill:none;stroke:white;stroke-width:1.84px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,9.82735,-5305.4)">
+                    <path d="M23.248,5392.82C24.815,5394.05 75.407,5394.23 81.563,5392.47C95.611,5388.46 91.488,5362.39 76.23,5367.19C77.046,5365.19 80.762,5348.9 63.914,5345.53C47.752,5342.29 43.503,5355.49 44.191,5361.56C35.187,5359.96 31.917,5364.38 32.147,5371.62C21.948,5363.09 11.782,5383.81 23.248,5392.82Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-414,-4710)">
+        <g id="mcdonalds" transform="matrix(1,0,0,1,414.454,4710.94)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1,0,0,1,-413.147,-4709.31)">
+                <path d="M433.374,4811.11C431.99,4810.12 429.356,4754.57 452.943,4739.31C455.249,4737.82 469.623,4728.52 478.475,4762.28C481.472,4744.15 497.983,4723.81 510.793,4743.73C523.956,4764.21 521.478,4802.03 521.745,4808.97C517.183,4809.29 517.211,4808.84 512.724,4810.12C512.559,4804.85 511.882,4758.69 498.08,4748.34C494.885,4745.94 489.321,4751.23 485.389,4763.03C484.151,4766.74 484.633,4766.4 482.382,4791.16C482.157,4793.64 482.227,4793.58 481.971,4794.85C478.944,4795.05 479.027,4794.82 476.118,4795.27C476.229,4790.13 473.966,4756.28 462.891,4748.89C454.572,4743.35 446.664,4756.46 445.02,4768.79C443.803,4777.92 441.081,4785.92 439.309,4808.95C439.091,4811.79 438.506,4810.46 433.374,4811.11Z" style="fill:none;stroke:white;stroke-width:2px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

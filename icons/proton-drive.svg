@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-5168)">
+        <g id="proton-drive" transform="matrix(1,0,0,1,0.476909,5168.21)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.08656,0,0,1.08656,-2.04024,-3.21035)">
+                <g transform="matrix(1,0,0,1,-0.476909,-5168.21)">
+                    <path d="M23.12,5197.82C20.418,5202.52 21.046,5199.81 20.02,5213.14C18.573,5231.95 18.197,5260.06 21.225,5261.02C37.269,5266.08 67.87,5263.35 75.818,5263.09C94.679,5262.47 99.389,5266.34 102.167,5254.3C103.167,5249.97 105.804,5201.96 99.573,5202.01C79.577,5202.16 55.794,5202.73 54.819,5202.85C52.352,5200.64 53.268,5199.83 50.502,5197.99C44.196,5193.78 23.256,5197.85 23.12,5197.82Z" style="fill:none;stroke:white;stroke-width:1.84px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-0.476909,-5168.21)">
+                    <path d="M20.969,5209.47C22.442,5209.23 36.054,5207.04 39.584,5210.57C41.517,5212.5 40.441,5217.82 51.475,5217.13C54.519,5216.94 70.466,5216.94 72.118,5216.94C84.154,5216.94 86.71,5217.72 87.528,5229.79C88.976,5251.14 86.603,5258.59 87.909,5262.51" style="fill:none;stroke:white;stroke-width:1.84px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

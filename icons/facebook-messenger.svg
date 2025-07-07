@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-414,-4864)">
+        <g id="facebook-messenger" transform="matrix(1,0,0,1,414.169,4864.05)">
+            <rect x="0" y="0" width="128" height="128"/>
+            <g transform="matrix(1.0872,0,0,1.0872,-2.257,2.58567)">
+                <g transform="matrix(1,0,0,1,-414.169,-4864.05)">
+                    <path d="M465.438,4879.42C471.912,4876.19 502.64,4869.02 515.677,4908.13C519.869,4920.71 513.38,4946.04 492.352,4954.45C480.946,4959.02 468.72,4959.21 462.013,4957.39C461.096,4957.14 460.776,4961.27 451.761,4964.17C450.899,4964.44 448.325,4964.74 448.034,4962.3C447.781,4960.17 447.713,4955.44 448.64,4952.65C442.007,4946.88 423.922,4936.54 439.503,4902.26C447.15,4885.44 463.452,4880.42 465.438,4879.42Z" style="fill:none;stroke:white;stroke-width:1.84px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-414.423,-4861.24)">
+                    <path d="M455.814,4922C458.156,4917.31 461.319,4894.91 478.65,4909.76C486.477,4916.47 494.068,4898.1 497.898,4901.93C499.271,4903.31 491.23,4934.05 480.444,4925.42C470.268,4917.28 468.951,4921.54 463.318,4926.24C457.468,4931.11 452.401,4928.82 455.814,4922Z" style="fill:none;stroke:white;stroke-width:1.84px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
